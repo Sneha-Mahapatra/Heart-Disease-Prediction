@@ -1,4 +1,4 @@
-# 🫀**Heart Disease Risk Prediction using KNN**
+# 🫀**Heart Disease Prediction using KNN**
 
 ## 🔍**Overview**
 Cardiovascular diseases (CVDs) are a leading cause of death globally. This project aims to build a predictive model that helps identify individuals at risk of heart disease early, using health indicators such as age, cholesterol levels, ECG results, and more.
